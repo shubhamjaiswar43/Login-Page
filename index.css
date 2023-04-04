@@ -6,8 +6,11 @@
 }
 
 html {
-    overflow: hidden;
+    /* overflow: hidden; */
     background: url('bgImg.jpg') no-repeat center center/cover fixed;
+}
+body{
+    overflow: hidden;
 }
 .main {
     width: 402px;
