@@ -9,15 +9,11 @@ html {
     overflow: hidden;
     background: url('bgImg.jpg') no-repeat center center/cover fixed;
 }
-body{
-    display: flex;
-    justify-content: center;
-}
 .main {
     width: 402px;
     height: 300px;
-    /* margin:auto; */
-    position: absolute;
+    margin:auto;
+    position: relative;
     top:30vh;
 }
 

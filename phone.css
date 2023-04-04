@@ -23,3 +23,6 @@
     padding: 3px 8px;
     padding-left: 0px;
 }
+#openEye,#closeEye{
+    float: right;
+}
